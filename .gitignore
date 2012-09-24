@@ -1,0 +1,9 @@
+bin/
+obj/
+LocalDoc/
+.idea/
+*.suo
+*.userprefs
+*.pidb
+
+*proj.user
